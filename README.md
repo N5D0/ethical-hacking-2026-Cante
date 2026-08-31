@@ -1,2 +1,9 @@
 # ethical-hacking-2026-Cante
-Repositorio de actividade y entregables del curso Ethical Hacking de la Segunda Generación de Hacker Women Council.
+Repositorio de actividades y entregables del curso Ethical Hacking de la Segunda Generación de Hacker Women Council.
+
+## Alumna
+Nahomy Dafne Cante Jiménez
+
+## Actividades
+Actividad 01
+Actividad 02
