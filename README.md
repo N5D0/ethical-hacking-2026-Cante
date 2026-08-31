@@ -3,7 +3,3 @@ Repositorio de actividades y entregables del curso Ethical Hacking de la Segunda
 
 ## Alumna
 Nahomy Dafne Cante Jiménez
-
-## Actividades
-Actividad 01
-Actividad 02
