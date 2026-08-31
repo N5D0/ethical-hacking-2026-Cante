@@ -1,0 +1,2 @@
+# ethical-hacking-2026-Cante
+Repositorio de actividade y entregables del curso Ethical Hacking de la Segunda Generación de Hacker Women Council.
