@@ -1,5 +1,5 @@
 # ethical-hacking-2026-Cante
-Repositorio de actividades y entregables del curso Ethical Hacking.
+Repositorio de actividades y entregables (en formato PDF y Markdown) del curso Ethical Hacking.
 
 ## Alumna
 Nahomy Dafne Cante Jiménez
